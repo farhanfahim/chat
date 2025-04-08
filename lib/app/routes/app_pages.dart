@@ -1,8 +1,9 @@
 import 'package:get/get_navigation/src/routes/get_route.dart';
 import 'package:get/get_navigation/src/routes/transitions_type.dart';
 
-import '../app/modules/splash/bindings/splash_binding.dart';
-import '../app/modules/splash/views/splash_view.dart';
+import '../modules/splash/bindings/splash_binding.dart';
+import '../modules/splash/views/splash_view.dart';
+
 
 part 'app_routes.dart';
 

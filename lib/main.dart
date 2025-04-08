@@ -1,9 +1,8 @@
-import 'package:chat/routes/app_pages.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
-
 import 'app/components/resources/app_colors.dart';
+import 'app/routes/app_pages.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -33,7 +32,7 @@ class MyApp extends StatelessWidget {
         ),
         colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primaryColor),
       ),
-      title: 'Trending Repo',
+      title: 'Chat App',
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     );
