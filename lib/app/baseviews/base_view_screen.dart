@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:chat/app/components/resources/app_colors.dart';
 import 'package:chat/app/components/resources/app_images.dart';
-import 'package:chat/app/utils/dimens.dart';
+import 'package:chat/utils/dimens.dart';
 import 'package:chat/app/components/widgets/app_status_bar.dart';
 import 'package:chat/app/components/widgets/custom_app_bar.dart';
 

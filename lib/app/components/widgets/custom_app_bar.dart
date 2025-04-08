@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import '../../utils/app_font_size.dart';
+import '../../../utils/app_font_size.dart';
 import '../resources/app_colors.dart';
 import '../resources/app_fonts.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';

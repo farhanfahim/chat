@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:chat/app/components/resources/app_fonts.dart';
 
-import '../../utils/app_font_size.dart';
+import '../../../utils/app_font_size.dart';
 import '../resources/app_colors.dart';
 
 class MyText extends StatelessWidget {

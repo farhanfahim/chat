@@ -1,8 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:internet_connection_checker/internet_connection_checker.dart';
-
-import '../components/widgets/custom_toast.dart';
+import '../app/components/widgets/custom_toast.dart';
 class Util {
 
   static Future<bool> check() async {
